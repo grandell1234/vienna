@@ -1,0 +1,11 @@
+/Users/spitzeracademy3/Documents/IDE/vienna/target/debug/deps/libecolor-d412c845a94531b5.rmeta: /Users/spitzeracademy3/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ecolor-0.23.0/src/lib.rs /Users/spitzeracademy3/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ecolor-0.23.0/src/color32.rs /Users/spitzeracademy3/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ecolor-0.23.0/src/hsva_gamma.rs /Users/spitzeracademy3/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ecolor-0.23.0/src/hsva.rs /Users/spitzeracademy3/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ecolor-0.23.0/src/rgba.rs
+
+/Users/spitzeracademy3/Documents/IDE/vienna/target/debug/deps/libecolor-d412c845a94531b5.rlib: /Users/spitzeracademy3/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ecolor-0.23.0/src/lib.rs /Users/spitzeracademy3/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ecolor-0.23.0/src/color32.rs /Users/spitzeracademy3/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ecolor-0.23.0/src/hsva_gamma.rs /Users/spitzeracademy3/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ecolor-0.23.0/src/hsva.rs /Users/spitzeracademy3/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ecolor-0.23.0/src/rgba.rs
+
+/Users/spitzeracademy3/Documents/IDE/vienna/target/debug/deps/ecolor-d412c845a94531b5.d: /Users/spitzeracademy3/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ecolor-0.23.0/src/lib.rs /Users/spitzeracademy3/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ecolor-0.23.0/src/color32.rs /Users/spitzeracademy3/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ecolor-0.23.0/src/hsva_gamma.rs /Users/spitzeracademy3/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ecolor-0.23.0/src/hsva.rs /Users/spitzeracademy3/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ecolor-0.23.0/src/rgba.rs
+
+/Users/spitzeracademy3/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ecolor-0.23.0/src/lib.rs:
+/Users/spitzeracademy3/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ecolor-0.23.0/src/color32.rs:
+/Users/spitzeracademy3/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ecolor-0.23.0/src/hsva_gamma.rs:
+/Users/spitzeracademy3/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ecolor-0.23.0/src/hsva.rs:
+/Users/spitzeracademy3/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ecolor-0.23.0/src/rgba.rs:
